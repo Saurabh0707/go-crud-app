@@ -1,0 +1,18 @@
+# Build output
+/bin/
+/obj/
+
+# Dependency directories
+/vendor/
+
+# Go workspace
+*.exe
+*.test
+*.out
+
+# IDE configuration files
+.idea/
+.vscode/
+
+# Local environment files
+.env
